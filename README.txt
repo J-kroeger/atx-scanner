@@ -1,8 +1,8 @@
 ATX-Scanner - ANTEX File Summary Browser
 =========================================
 
-Version: 1.1.0
-Release date: 2026-09-01
+Version: 1.1.1
+Release date: 2026-11-01
 
 Desktop application for browsing, filtering, searching, and exporting
 GNSS antenna calibration metadata from ANTEX files.
@@ -158,17 +158,18 @@ STAY INFORMED
   first starts, and the Contact dialog can open it again at any time.
 
   Subscribe (web form):
-    https://listserv.uni-hannover.de/cgi-bin/wa?SUBED1=SOFTWARE-IFE&A=1
+    https://lists.uni-hannover.de/sympa/subscribe/ife-software
 
   Subscribe by e-mail:
-    send the single line   subscribe software-ife
-    to                     listserv@listserv.uni-hannover.de
+    send the two lines     subscribe ife-software
+                           QUIT
+    to                     sympa@lists.uni-hannover.de
 
-  Send that command line on its own. LISTSERV reads the message body line by
-  line, so a signature added by your mail program can stop it.
+  The word QUIT tells the list server to stop reading, so a signature added
+  by your mail program does no harm.
 
-  List address: SOFTWARE-IFE@LISTSERV.UNI-HANNOVER.DE
+  List address: ife-software@lists.uni-hannover.de
 
-  LISTSERV answers with a confirmation mail. The subscription becomes active
-  only after you reply to it and a moderator approves the request. Subscribing
-  is voluntary and you can leave the list at any time.
+  The list server answers with a mail that asks you to confirm. The
+  subscription becomes active once you confirm it. Subscribing is voluntary
+  and you can leave the list at any time.
